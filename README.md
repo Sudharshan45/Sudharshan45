@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **Javascript, React JS, Node JS**
+- 💬 Ask me about **Java, Springboot, Javascript, React JS, Node JS**
 
 - 📫 How to reach me **ssudharshan644@gmail.com**
 
