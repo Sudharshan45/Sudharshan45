@@ -11,7 +11,7 @@
 I'm a backend software engineer from India with a passion for designing and developing scalable, high-performance systems.  
 I enjoy solving challenging problems and exploring system design, distributed systems, and backend architecture.  
 
-- 🔭 **Currently learning:** TypeScript & advanced Spring Boot patterns  
+- 🔭 **Currently learning:** Advanced Spring Boot patterns  
 - 💬 **Ask me about:** Java, Spring Boot, Node.js, PostgreSQL, System Design  
 - ⚙️ **Interests:** Backend architecture, APIs, and performance optimization  
 - 📫 **Reach me at:** [ssudharshan644@gmail.com](mailto:ssudharshan644@gmail.com)  
